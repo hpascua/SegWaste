@@ -82,7 +82,7 @@
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ornare massa eget egestas purus viverra accumsan in nisl nisi. Et tortor consequat id porta. Velit sed ullamcorper morbi tincidunt ornare massa. Ac turpis egestas integer eget aliquet. Orci dapibus ultrices in iaculis nunc sed augue lacus. Proin libero nunc consequat interdum varius sit amet mattis. Habitant morbi tristique senectus et netus et malesuada fames. Egestas"
+                android:text="Plastics take centuries to degrade. So, keep a separate bag for them away from wet waste and other dry waste like paper! Make sure to wash them first if they contained food or liquids!"
                 android:textColor="@color/black"
                 android:textSize="20sp"
                 android:paddingHorizontal="20dp"
