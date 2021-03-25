@@ -76,13 +76,13 @@ public class WasteTrackerFragment extends Fragment {
 
         if (!toggle.isChecked()){
 
-            num1.setText("5");
-            num2.setText("14");
+            num1.setText("5 kg");
+            num2.setText("14 kg");
             date.setText("March 2021");
         }
         else{
-            num1.setText("25");
-            num2.setText("30");
+            num1.setText("25 kg");
+            num2.setText("30 kg");
             date.setText("2021");
         }
 
@@ -90,13 +90,13 @@ public class WasteTrackerFragment extends Fragment {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 if (!isChecked){
-                    num1.setText("5");
-                    num2.setText("14");
+                    num1.setText("5 kg");
+                    num2.setText("14 kg");
                     date.setText("March 2021");
                 }
                 else{
-                    num1.setText("25");
-                    num2.setText("30");
+                    num1.setText("25 kg");
+                    num2.setText("30 kg");
                     date.setText("2021");
                 }
             }

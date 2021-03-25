@@ -29,6 +29,7 @@ public class PickupActivity extends AppCompatActivity {
 
 
         calendarView = findViewById(R.id.calendar_view);
+
         dateString = findViewById(R.id.date_string);
         collection = findViewById(R.id.collection);
         areaString = findViewById(R.id.area_string);

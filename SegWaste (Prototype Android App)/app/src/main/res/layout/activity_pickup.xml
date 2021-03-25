@@ -62,7 +62,10 @@
             android:id="@+id/calendar_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/white">
+            android:background="@color/white"
+            android:theme="@style/CalenderViewCustom"
+            android:dateTextAppearance="@style/CalenderViewDateCustomText"
+            android:weekDayTextAppearance="@style/CalenderViewWeekCustomText">
         </CalendarView>
 
         <Space
