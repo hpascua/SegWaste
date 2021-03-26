@@ -25,5 +25,7 @@ This repository consists of the following files and directories:
 - **WasteID (TensorFlow):** An **Android Studio** project directory that shows how the WasteID function may look like once the solution is fully implemented. It uses **TensorFlow** to detect objects in real time and classify them into different types of trash using a **custom-made classification model.** This application is based on [an official example by TensorFlow for image recognition applications](https://github.com/tensorflow/examples/tree/master/lite/codelabs/flower_classification).
 - **Innovation Proposal.pdf:** A PDF document that contains our proposal for this project. This provides context to the issue we aim to solve, a market study on our possible user base, a proposed business model to maintain the operations of the solution, and a detailed explanation on how we would implement this solution.
 
+Additionally, you may use our [Interactive Preview](https://xd.adobe.com/view/52004424-d00a-4898-a772-aca4ed2a762e-0753/?fullscreen) to gain a better idea on how our prototype works.
+
 ## How to Compile and Execute the Android Studio Projects
 Just install the dependencies by building the project's Gradle and run it like you would with any other Android Studio project! For the best experience, we recommend you run our applications through a physical Android device than through an emulator.
